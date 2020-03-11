@@ -30,7 +30,10 @@ Extract the zip file. The file contains the following folders:
 
 * AzureVPN
 * Generic
-* OpenVPN (If you enabled the OpenVPN and Azure AD authentication settings on the gateway. See [Create a tenant](openvpn-azure-ad-tenant.md).)
+* OpenVPN (If you enabled the OpenVPN and Azure AD authentication settings on the gateway. See [Create a tenant](openvpn-azure-ad-tenant.md).) 
+
+*Note*
+When using AAD authentication no "OpenVPN" folder will be generated when downloading the profile, instead use the azurevpnconfig.xml located in the "AzureVPN" folder to import into the windows store client.
 
 ## 3. Retrieve information
 
