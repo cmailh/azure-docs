@@ -52,7 +52,7 @@ Once you have a working profile and need to distribute it to other users, you ca
 
     ![export](./media/openvpn-azure-ad-client/export/export2.jpg)
 
-### <a name="import"></a>To import a client profile
+### <a name="import"></a>To create AAD Authentication profile using azurevpnconfig.xml by importing it
 
 1. On the page, select **Import**.
 
